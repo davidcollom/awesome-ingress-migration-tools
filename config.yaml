@@ -1,0 +1,10 @@
+version: 1
+user: "davidcollom"
+lists:
+  - slug: "ingress-migration-tools" # taken from /stars/<user>/lists/<slug>
+    title: "Awesome Ingress Migration Tools"
+    tagline: "Tools that help migrate from the Ingress resource to the Gateway API."
+    min_stars: 0
+    stale_months: 0
+    badges:
+      - "https://img.shields.io/badge/awesome-yes-brightgreen"
